@@ -5,7 +5,6 @@ object BiggestNumber {
     val a = 10
     val b = 15
     val c = 30
-    val greater =
       if (a > b & a > c) {
         print("the largest number is "+a)
       }
